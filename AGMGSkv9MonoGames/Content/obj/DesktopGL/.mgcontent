@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/Consolas.spritefont</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/colorTexture.png</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/heightTexture.png</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/inspectorBackground.png</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/marble.png</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/100x50x100Marker.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/100x100x100brick.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/boundingSphereV8.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/cloudV3.FBX</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/dogV6.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/magentaAvatarV6.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/redAvatarV6.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/templeV3.fbx</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/box.x</File>
+    <File>C:/Users/johny_000/source/repos/AGMGSK-Phase2/AGMGSkv9MonoGames/Content/treasure.x</File>
+  </SourceFiles>
+</SourceFileCollection>
